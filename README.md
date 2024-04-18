@@ -1,4 +1,4 @@
-# gitbot
+# gitbot (copia e incolla)
 git clone https://github.com/ItaliansProjects/gitbot
 
 cd gitbot
