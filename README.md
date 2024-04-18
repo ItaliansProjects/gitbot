@@ -9,4 +9,4 @@ chmod +x gitbot.py
 
 ./gitbot.py
 
-![Descrizione dell'immagine](https://www.google.com/search?q=GitHub+bot+telegram+python&client=ms-android-samsung-ss&sca_esv=6b1c5e95a3d0b06b&sca_upv=1&udm=2&biw=412&bih=757&ei=EHohZs6THebwi-gPo_https://miro.medium.com/v2/resize:fit:1200/1*MTEiS4TD--XPm7voLfZqUA.jpeg)
+![Descrizione dell'immagine](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/159317285/original/e0dae7be9c6638125e0462a527837f9f92806deb/create-a-basic-telegram-bot.png)
