@@ -1,2 +1,10 @@
 # gitbot
-bot di ricerca strumenti GitHub tramite token generato tramite botfather su telefram.
+git clone https://github.com/ItaliansProjects/gitbot
+
+cd gitbot
+
+pip install -r requirements.txt
+
+chmod +x gitbot.py
+
+./gitbot.py
